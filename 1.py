@@ -14,7 +14,7 @@ print(reversed_list)
 #using Reversed function
 
 my_list=[1,2,3,4,5]
-reversed_list=(reversed(my_list))
+reversed_list=list(reversed(my_list))
 print(reversed_list)
 
 #Solution4
